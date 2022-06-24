@@ -1,0 +1,314 @@
+{
+    "questions": [
+        {
+            "questionNo": 1,
+            "value": "What is used in React JS to Increase Performance",
+            "options": {
+                "a": {
+                    "optionKey": "a",
+                    "optionValue": "Some Val a ",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "b": {
+                    "optionKey": "b",
+                    "optionValue": "Some Val b",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "c": {
+                    "optionKey": "c",
+                    "optionValue": "Some Val c",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "d": {
+                    "optionKey": "d",
+                    "optionValue": "Some Val d",
+                    "isSelected": false,
+                    "isCorrect": false
+                }
+            },
+            "correctAnswer": "a"
+        },
+        {
+            "questionNo": 2,
+            "value": "What is used in React JS to Increase Performance",
+            "options": {
+                "a": {
+                    "optionKey": "a",
+                    "optionValue": "Some Val a ",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "b": {
+                    "optionKey": "b",
+                    "optionValue": "Some Val b",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "c": {
+                    "optionKey": "c",
+                    "optionValue": "Some Val c",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "d": {
+                    "optionKey": "d",
+                    "optionValue": "Some Val d",
+                    "isSelected": false,
+                    "isCorrect": false
+                }
+            },
+            "correctAnswer": "a"
+        },
+        {
+            "questionNo": 3,
+            "value": "What is used in React JS to Increase Performance",
+            "options": {
+                "a": {
+                    "optionKey": "a",
+                    "optionValue": "Some Val a ",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "b": {
+                    "optionKey": "b",
+                    "optionValue": "Some Val b",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "c": {
+                    "optionKey": "c",
+                    "optionValue": "Some Val c",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "d": {
+                    "optionKey": "d",
+                    "optionValue": "Some Val d",
+                    "isSelected": false,
+                    "isCorrect": false
+                }
+            },
+            "correctAnswer": "a"
+        },
+        {
+            "questionNo": 4,
+            "value": "What is used in React JS to Increase Performance",
+            "options": {
+                "a": {
+                    "optionKey": "a",
+                    "optionValue": "Some Val a ",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "b": {
+                    "optionKey": "b",
+                    "optionValue": "Some Val b",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "c": {
+                    "optionKey": "c",
+                    "optionValue": "Some Val c",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "d": {
+                    "optionKey": "d",
+                    "optionValue": "Some Val d",
+                    "isSelected": false,
+                    "isCorrect": false
+                }
+            },
+            "correctAnswer": "a"
+        },
+        {
+            "questionNo": 5,
+            "value": "What is used in React JS to Increase Performance",
+            "options": {
+                "a": {
+                    "optionKey": "a",
+                    "optionValue": "Some Val a ",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "b": {
+                    "optionKey": "b",
+                    "optionValue": "Some Val b",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "c": {
+                    "optionKey": "c",
+                    "optionValue": "Some Val c",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "d": {
+                    "optionKey": "d",
+                    "optionValue": "Some Val d",
+                    "isSelected": false,
+                    "isCorrect": false
+                }
+            },
+            "correctAnswer": "a"
+        },
+        {
+            "questionNo": 6,
+            "value": "What is used in React JS to Increase Performance",
+            "options": {
+                "a": {
+                    "optionKey": "a",
+                    "optionValue": "Some Val a ",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "b": {
+                    "optionKey": "b",
+                    "optionValue": "Some Val b",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "c": {
+                    "optionKey": "c",
+                    "optionValue": "Some Val c",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "d": {
+                    "optionKey": "d",
+                    "optionValue": "Some Val d",
+                    "isSelected": false,
+                    "isCorrect": false
+                }
+            },
+            "correctAnswer": "a"
+        },
+        {
+            "questionNo": 7,
+            "value": "What is used in React JS to Increase Performance",
+            "options": {
+                "a": {
+                    "optionKey": "a",
+                    "optionValue": "Some Val a ",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "b": {
+                    "optionKey": "b",
+                    "optionValue": "Some Val b",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "c": {
+                    "optionKey": "c",
+                    "optionValue": "Some Val c",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "d": {
+                    "optionKey": "d",
+                    "optionValue": "Some Val d",
+                    "isSelected": false,
+                    "isCorrect": false
+                }
+            },
+            "correctAnswer": "a"
+        },
+        {
+            "questionNo": 8,
+            "value": "What is used in React JS to Increase Performance",
+            "options": {
+                "a": {
+                    "optionKey": "a",
+                    "optionValue": "Some Val a ",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "b": {
+                    "optionKey": "b",
+                    "optionValue": "Some Val b",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "c": {
+                    "optionKey": "c",
+                    "optionValue": "Some Val c",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "d": {
+                    "optionKey": "d",
+                    "optionValue": "Some Val d",
+                    "isSelected": false,
+                    "isCorrect": false
+                }
+            },
+            "correctAnswer": "a"
+        },
+        {
+            "questionNo": 9,
+            "value": "What is used in React JS to Increase Performance",
+            "options": {
+                "a": {
+                    "optionKey": "a",
+                    "optionValue": "Some Val a ",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "b": {
+                    "optionKey": "b",
+                    "optionValue": "Some Val b",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "c": {
+                    "optionKey": "c",
+                    "optionValue": "Some Val c",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "d": {
+                    "optionKey": "d",
+                    "optionValue": "Some Val d",
+                    "isSelected": false,
+                    "isCorrect": false
+                }
+            },
+            "correctAnswer": "a"
+        },
+        {
+            "questionNo": 10,
+            "value": "What is used in React JS to Increase Performance",
+            "options": {
+                "a": {
+                    "optionKey": "a",
+                    "optionValue": "Some Val a ",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "b": {
+                    "optionKey": "b",
+                    "optionValue": "Some Val b",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "c": {
+                    "optionKey": "c",
+                    "optionValue": "Some Val c",
+                    "isSelected": false,
+                    "isCorrect": false
+                },
+                "d": {
+                    "optionKey": "d",
+                    "optionValue": "Some Val d",
+                    "isSelected": false,
+                    "isCorrect": false
+                }
+            },
+            "correctAnswer": "a"
+        }
+    ]
+}
