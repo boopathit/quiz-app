@@ -1,0 +1,29 @@
+.question-container {
+  min-width: 800px;
+}
+
+.question-header,
+.question-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.question-content {
+  background-color: rgb(78 137 235);
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 15px;
+}
+
+.question-options {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.question {
+  color: white;
+  text-align: start;
+  max-width: 400px;
+  font-size: 2em;
+}
